@@ -554,3 +554,26 @@ h2 {
     width: 100%;
   }
 }
+
+.w-icon-nav-menu {
+    color: #FFF;
+}
+
+.w-nav-button.w--open {
+    background-color: #1d1d50;
+}
+
+nav.nav-menu.w-nav-menu.w--nav-menu-open {
+    background-color: #1d1d50;
+    display: flex !important;
+    flex-direction: column;
+}
+
+nav.nav-menu.w-nav-menu.w--nav-menu-open a.button.w-button {
+    width: 50%;
+    display: inline-block;
+    margin: 0 auto;
+    position: relative;
+    left: 0;
+    margin-bottom: 20px;
+}
