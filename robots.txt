@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /infos.html
+Disallow: /tos.html
+Disallow: /request.html
