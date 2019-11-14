@@ -91,6 +91,15 @@ h2 {
 
 .body {
   font-family: Montserrat, sans-serif;
+  min-height: 100%;
+  background-color: #fff;
+  font-family: Arial, sans-serif;
+  font-size: 14px;
+  line-height: 20px;
+  color: #333;
+  display: flex;
+  flex: 1 1 auto;
+  flex-direction: column;
 }
 
 .brand {
@@ -166,6 +175,7 @@ h2 {
 
 .main {
   display: block;
+  flex: 1 1 auto;
   height: 100%;
   padding-top: 0px;
   padding-bottom: 30px;
