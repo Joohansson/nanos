@@ -576,3 +576,10 @@ nav.nav-menu.w-nav-menu.w--nav-menu-open a.button.w-button {
     left: 0;
     margin-bottom: 20px;
 }
+
+.header-text {
+  text-align: center;
+  color: darkgrey;
+  font-size: large;
+}
+
