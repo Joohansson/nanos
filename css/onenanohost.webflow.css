@@ -207,7 +207,7 @@ h2 {
   display: -ms-flexbox;
   display: flex;
   width: 31%;
-  height: 250px;
+  height: 170px;
   margin: 10px;
   padding: 10px 20px 20px;
   -webkit-box-orient: vertical;
@@ -336,7 +336,7 @@ h2 {
 .footer-text {
   display: block;
   margin-bottom: 0px;
-  color: #9899ae;
+  color: #242429;
   text-align: center;
 }
 
